@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 noteId: "8cc4b0d043df11eab8c381b54c33da1d"
+=======
+noteId: "e2880f10430011eab64e27e4a782d75b"
+>>>>>>> 1e85f909dc0a4fe559c1f7b15b733e87bdd14841
 tags: []
 
 ---
@@ -31,11 +35,11 @@ https://www.kaggle.com/ronitf/heart-disease-uci
 age's compared to chest pain types
 correlation between age and presence of heart disease
 correlation between cholesterol and presence of heart disease
-correlation between chest pain type and presence of resting EKG results
+correlation between chest pain type and the presence of heart disease
 
 ### Research Questions
 What is the coorilation between heart disease and age?
 
 What is the coorilation between cholesterol levels and heart disease?
 
-What is the coorilation between chest pain type and the presense of the resting EKG results?
+What is the coorilation between chest pain type and heart disease?
