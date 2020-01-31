@@ -1,16 +1,3 @@
-<<<<<<< HEAD
----
-<<<<<<< HEAD
-noteId: "8cc4b0d043df11eab8c381b54c33da1d"
-=======
-noteId: "e2880f10430011eab64e27e4a782d75b"
->>>>>>> 1e85f909dc0a4fe559c1f7b15b733e87bdd14841
-tags: []
-
----
-
-=======
->>>>>>> 51c66dcefff0b348861b0e4af694c2d39c59bc85
 # hAPI Campers
 
 
