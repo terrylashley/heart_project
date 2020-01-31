@@ -1,3 +1,9 @@
+---
+noteId: "8cc4b0d043df11eab8c381b54c33da1d"
+tags: []
+
+---
+
 # hAPI Campers
 
 
