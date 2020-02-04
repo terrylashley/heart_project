@@ -36,9 +36,6 @@ The end result will involve a visual representation of the many different cooril
 #### Data set Heart Disease UCI CSV
 https://www.kaggle.com/ronitf/heart-disease-uci
 
-
-
-
 ### Rough Breakdown of Tasks
 age's compared to chest pain types
 correlation between age and presence of heart disease
